@@ -26,6 +26,8 @@ glide = { module = "com.github.bumptech.glide:glide", version = "4.15.1" }
 retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
 retrofit-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "retrofit" }
 okhttp = { module = "com.squareup.okhttp3:okhttp", version.ref = "okhttp" }
+ucrop = { group = "com.github.yalantis", name = "ucrop", version = "2.2.6" }
+
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }
