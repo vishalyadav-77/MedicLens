@@ -43,7 +43,12 @@
 <hr/>
 
 <h2>📸 Screenshots</h2>
-<p><em>(Add screenshots here using raw GitHub URLs, like shown earlier)</em></p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vishalyadav-77/MedicLens/refs/heads/main/screenshots/sml1.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/vishalyadav-77/MedicLens/refs/heads/main/screenshots/sml2.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/vishalyadav-77/MedicLens/refs/heads/main/screenshots/sml3.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/vishalyadav-77/MedicLens/refs/heads/main/screenshots/sml4.jpg" width="200"/>
+</p>
 
 <hr/>
 
